@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HomeWork.Lesson_5.Task_2", "HomeWork.Lesson_5.Task_2\HomeWork.Lesson_5.Task_2.pyproj", "{87ACE9B9-764B-4973-A9A5-3E8C3C1512F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87ACE9B9-764B-4973-A9A5-3E8C3C1512F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87ACE9B9-764B-4973-A9A5-3E8C3C1512F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
